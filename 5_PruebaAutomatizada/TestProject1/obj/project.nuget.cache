@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "yKjOV3Vkd3bVy7G2huU/WQ0P508d1SY9/hQjZRy5tsM67A7xx38Fqwgeyyj34dToPtICpbU365s3biWK3Rynqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jaird\\Downloads\\Proyectos Hugo Palomino\\5_PruebaAutomatizada\\TestProject1\\TestProject1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaird\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.0.1\\dotnetseleniumextras.pageobjects.core.4.0.1.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\selenium.webdriver.chromedriver\\101.0.4951.4100\\selenium.webdriver.chromedriver.101.0.4951.4100.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\jaird\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

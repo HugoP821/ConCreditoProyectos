@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rockola", "Rockola\Rockola.csproj", "{AAD471EB-57E2-4473-9AF2-F0B28BFBC1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD471EB-57E2-4473-9AF2-F0B28BFBC1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD471EB-57E2-4473-9AF2-F0B28BFBC1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD471EB-57E2-4473-9AF2-F0B28BFBC1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD471EB-57E2-4473-9AF2-F0B28BFBC1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E45650A2-4346-44EF-B8BB-0BB331DA5239}
+	EndGlobalSection
+EndGlobal

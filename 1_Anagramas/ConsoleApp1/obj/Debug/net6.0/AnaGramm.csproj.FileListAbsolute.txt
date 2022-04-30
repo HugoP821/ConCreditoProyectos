@@ -1,0 +1,15 @@
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\bin\Debug\net6.0\AnaGramm.exe
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\bin\Debug\net6.0\AnaGramm.deps.json
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\bin\Debug\net6.0\AnaGramm.runtimeconfig.json
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\bin\Debug\net6.0\AnaGramm.dll
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\bin\Debug\net6.0\AnaGramm.pdb
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.csproj.AssemblyReference.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.AssemblyInfoInputs.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.AssemblyInfo.cs
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.csproj.CoreCompileInputs.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.dll
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\refint\AnaGramm.dll
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.pdb
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\AnaGramm.genruntimeconfig.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Anagramas\ConsoleApp1\obj\Debug\net6.0\ref\AnaGramm.dll

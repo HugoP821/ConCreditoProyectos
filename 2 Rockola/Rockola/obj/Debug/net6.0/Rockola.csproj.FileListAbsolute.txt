@@ -1,0 +1,15 @@
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.csproj.AssemblyReference.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.AssemblyInfoInputs.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.AssemblyInfo.cs
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.csproj.CoreCompileInputs.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\bin\Debug\net6.0\Rockola.exe
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\bin\Debug\net6.0\Rockola.deps.json
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\bin\Debug\net6.0\Rockola.runtimeconfig.json
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\bin\Debug\net6.0\Rockola.dll
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\bin\Debug\net6.0\Rockola.pdb
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.dll
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\refint\Rockola.dll
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.pdb
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\Rockola.genruntimeconfig.cache
+C:\Users\jaird\Downloads\Proyectos Hugo Palomino\Rockola\Rockola\obj\Debug\net6.0\ref\Rockola.dll

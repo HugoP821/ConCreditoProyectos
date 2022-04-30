@@ -1,0 +1,9 @@
+aDATE=$(date +%Y-%m-%d-%H%M%S)
+backup_dir="home/ubuntu/backups"
+source "$HOME/var/www/michangarrito"
+tar -cvzpf $BACKUP_Michangarrito/backup-$DATE.tar.gz $SOURCE
+cd var
+cd www
+cd michangarrito
+sudo apt update
+sudo apt upgrade
